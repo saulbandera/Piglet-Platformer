@@ -1,0 +1,278 @@
+﻿  Camera.cpp
+  Cannon.cpp
+  CannonSpawner.cpp
+D:\COMPUTER GAMES TECHNOLOGY\year 1\CMP105 [GAMES PROGRAMMING]\cmp105-coursework-1900264-master\Coursework\CMP105App\CannonSpawner.cpp(51,81): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\COMPUTER GAMES TECHNOLOGY\year 1\CMP105 [GAMES PROGRAMMING]\cmp105-coursework-1900264-master\Coursework\CMP105App\CannonSpawner.cpp(51,59): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  DeathScreen.cpp
+D:\COMPUTER GAMES TECHNOLOGY\year 1\CMP105 [GAMES PROGRAMMING]\cmp105-coursework-1900264-master\Coursework\CMP105App\DeathScreen.cpp(11,72): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\COMPUTER GAMES TECHNOLOGY\year 1\CMP105 [GAMES PROGRAMMING]\cmp105-coursework-1900264-master\Coursework\CMP105App\DeathScreen.cpp(11,51): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\COMPUTER GAMES TECHNOLOGY\year 1\CMP105 [GAMES PROGRAMMING]\cmp105-coursework-1900264-master\Coursework\CMP105App\DeathScreen.cpp(68,72): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\COMPUTER GAMES TECHNOLOGY\year 1\CMP105 [GAMES PROGRAMMING]\cmp105-coursework-1900264-master\Coursework\CMP105App\DeathScreen.cpp(68,51): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  EndPortal.cpp
+  Animation.cpp
+  AudioManager.cpp
+  Collision.cpp
+  GameState.cpp
+  Input.cpp
+  MusicObject.cpp
+  GameObject.cpp
+  SoundObject.cpp
+  TileMap.cpp
+  Vector.cpp
+  Instructions.cpp
+D:\COMPUTER GAMES TECHNOLOGY\year 1\CMP105 [GAMES PROGRAMMING]\cmp105-coursework-1900264-master\Coursework\CMP105App\Instructions.cpp(16,72): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\COMPUTER GAMES TECHNOLOGY\year 1\CMP105 [GAMES PROGRAMMING]\cmp105-coursework-1900264-master\Coursework\CMP105App\Instructions.cpp(16,51): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\COMPUTER GAMES TECHNOLOGY\year 1\CMP105 [GAMES PROGRAMMING]\cmp105-coursework-1900264-master\Coursework\CMP105App\Instructions.cpp(74,72): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\COMPUTER GAMES TECHNOLOGY\year 1\CMP105 [GAMES PROGRAMMING]\cmp105-coursework-1900264-master\Coursework\CMP105App\Instructions.cpp(74,51): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  Level.cpp
+  LevelComplete.cpp
+D:\COMPUTER GAMES TECHNOLOGY\year 1\CMP105 [GAMES PROGRAMMING]\cmp105-coursework-1900264-master\Coursework\CMP105App\LevelComplete.cpp(15,72): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\COMPUTER GAMES TECHNOLOGY\year 1\CMP105 [GAMES PROGRAMMING]\cmp105-coursework-1900264-master\Coursework\CMP105App\LevelComplete.cpp(15,51): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\COMPUTER GAMES TECHNOLOGY\year 1\CMP105 [GAMES PROGRAMMING]\cmp105-coursework-1900264-master\Coursework\CMP105App\LevelComplete.cpp(74,72): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\COMPUTER GAMES TECHNOLOGY\year 1\CMP105 [GAMES PROGRAMMING]\cmp105-coursework-1900264-master\Coursework\CMP105App\LevelComplete.cpp(74,51): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  Main.cpp
+  Menu.cpp
+D:\COMPUTER GAMES TECHNOLOGY\year 1\CMP105 [GAMES PROGRAMMING]\cmp105-coursework-1900264-master\Coursework\CMP105App\Menu.cpp(18,72): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\COMPUTER GAMES TECHNOLOGY\year 1\CMP105 [GAMES PROGRAMMING]\cmp105-coursework-1900264-master\Coursework\CMP105App\Menu.cpp(18,51): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\COMPUTER GAMES TECHNOLOGY\year 1\CMP105 [GAMES PROGRAMMING]\cmp105-coursework-1900264-master\Coursework\CMP105App\Menu.cpp(23,50): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\COMPUTER GAMES TECHNOLOGY\year 1\CMP105 [GAMES PROGRAMMING]\cmp105-coursework-1900264-master\Coursework\CMP105App\Menu.cpp(29,59): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\COMPUTER GAMES TECHNOLOGY\year 1\CMP105 [GAMES PROGRAMMING]\cmp105-coursework-1900264-master\Coursework\CMP105App\Menu.cpp(35,55): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\COMPUTER GAMES TECHNOLOGY\year 1\CMP105 [GAMES PROGRAMMING]\cmp105-coursework-1900264-master\Coursework\CMP105App\Menu.cpp(147,72): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\COMPUTER GAMES TECHNOLOGY\year 1\CMP105 [GAMES PROGRAMMING]\cmp105-coursework-1900264-master\Coursework\CMP105App\Menu.cpp(147,51): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\COMPUTER GAMES TECHNOLOGY\year 1\CMP105 [GAMES PROGRAMMING]\cmp105-coursework-1900264-master\Coursework\CMP105App\Menu.cpp(148,51): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\COMPUTER GAMES TECHNOLOGY\year 1\CMP105 [GAMES PROGRAMMING]\cmp105-coursework-1900264-master\Coursework\CMP105App\Menu.cpp(149,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\COMPUTER GAMES TECHNOLOGY\year 1\CMP105 [GAMES PROGRAMMING]\cmp105-coursework-1900264-master\Coursework\CMP105App\Menu.cpp(150,55): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  Generating Code...
+  Compiling...
+  MovingEnemy.cpp
+  MovingSpawner.cpp
+D:\COMPUTER GAMES TECHNOLOGY\year 1\CMP105 [GAMES PROGRAMMING]\cmp105-coursework-1900264-master\Coursework\CMP105App\MovingSpawner.cpp(48,87): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\COMPUTER GAMES TECHNOLOGY\year 1\CMP105 [GAMES PROGRAMMING]\cmp105-coursework-1900264-master\Coursework\CMP105App\MovingSpawner.cpp(48,65): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Player.cpp
+  Projectile.cpp
+  Settings.cpp
+D:\COMPUTER GAMES TECHNOLOGY\year 1\CMP105 [GAMES PROGRAMMING]\cmp105-coursework-1900264-master\Coursework\CMP105App\Settings.cpp(13,72): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\COMPUTER GAMES TECHNOLOGY\year 1\CMP105 [GAMES PROGRAMMING]\cmp105-coursework-1900264-master\Coursework\CMP105App\Settings.cpp(13,51): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\COMPUTER GAMES TECHNOLOGY\year 1\CMP105 [GAMES PROGRAMMING]\cmp105-coursework-1900264-master\Coursework\CMP105App\Settings.cpp(231,72): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\COMPUTER GAMES TECHNOLOGY\year 1\CMP105 [GAMES PROGRAMMING]\cmp105-coursework-1900264-master\Coursework\CMP105App\Settings.cpp(231,51): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  splashAnimation.cpp
+  SplashScreen.cpp
+  TileMap1.cpp
+D:\COMPUTER GAMES TECHNOLOGY\year 1\CMP105 [GAMES PROGRAMMING]\cmp105-coursework-1900264-master\Coursework\CMP105App\TileMap1.cpp(16,49): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\COMPUTER GAMES TECHNOLOGY\year 1\CMP105 [GAMES PROGRAMMING]\cmp105-coursework-1900264-master\Coursework\CMP105App\TileMap1.cpp(16,38): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\COMPUTER GAMES TECHNOLOGY\year 1\CMP105 [GAMES PROGRAMMING]\cmp105-coursework-1900264-master\Coursework\CMP105App\TileMap1.cpp(17,49): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\COMPUTER GAMES TECHNOLOGY\year 1\CMP105 [GAMES PROGRAMMING]\cmp105-coursework-1900264-master\Coursework\CMP105App\TileMap1.cpp(17,38): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+  Generating Code...
+  CMP105App.vcxproj -> D:\COMPUTER GAMES TECHNOLOGY\year 1\CMP105 [GAMES PROGRAMMING]\cmp105-coursework-1900264-master\Coursework\x64\Debug\CMP105App.exe
